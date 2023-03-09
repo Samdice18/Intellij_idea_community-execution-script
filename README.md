@@ -12,6 +12,6 @@ NB: it has only been used on pop os
   
 # USE:
 
-you can run it by typing the toolname and the folder or file you want to open:
+you can run it by typing the tool name and the folder or file you want to open:
   - idea project
   - idea squidgame.java
