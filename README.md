@@ -1,7 +1,7 @@
 # Intellij_idea_community-execution-script
 
-I created this script so that i can be able to execute intellij from my terminal just like vscode
-NB: it has only been used on pop os
+I created this script so that i can be able to execute intellij from my terminal just like vscode.
+NB: it has only been used on pop os , also it has been tested on snap installed intellij.
 
 1) to use this download the idea executable and place it under the ~/.local/bin/ sub-directory under your home directory.
   - cp ~/Downloads/idea ~/.local/bin/
